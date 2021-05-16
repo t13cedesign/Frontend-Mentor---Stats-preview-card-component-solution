@@ -36,8 +36,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/t13cedesign/Frontend-Mentor---Stats-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://t13cedesign.github.io/Frontend-Mentor---Stats-preview-card-component-solution/)
+- Solution URL: [https://github.com/t13cedesign/Frontend-Mentor---Stats-preview-card-component-solution]
+- Live Site URL: [https://t13cedesign.github.io/Frontend-Mentor---Stats-preview-card-component-solution/]
 
 ## My process
 
